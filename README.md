@@ -2,7 +2,7 @@
 
 SoupQL is a delicious resume project to demonstrate in-browser embedded SQL database proficiency. 
 
-In SoupQL, the user will be presented with an interface to select aspects of their favorite soups (Broth-based, Cream-based, Cheese-based, etc) and be served with a list of common soups matching their description. 
+In SoupQL, the user will be presented with an interface to select aspects of their favorite soups (Broth-based, Cream-based, Cheese-based, etc) and be served with a list of common soups matching their selection. 
 
 The database will be run through the browser using embedded SQLite library. 
 
