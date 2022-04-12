@@ -8,4 +8,4 @@ The database will be run through the browser using embedded sql.js library.
 
 The interface will be run through standard HTML/CSS frontend and will rely on JS to serve the embedded library running the sql.js. 
 
-SoupQL will be updated as additional soups are discovered. Is salsa a soup, for example? Food for thought. 
+SoupQL will be updated as additional soups are discovered. Is salsa a soup, for example? Soup for thought. 
