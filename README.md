@@ -1,6 +1,6 @@
 # SoupQL: Soup of the Da(-tabase)
 
-SoupQL is a delicious demonstration of in-browser embedded SQL (sql.js) database proficiency. 
+SoupQL is a delicious demonstration of in-browser embedded SQL (sql.js) database proficiency. sql.js uses emscripten to compile SQLite to webassembly. 
 
 In SoupQL, the user will be presented with an interface to select aspects of their favorite soups (Broth-based, Cream-based, Cheese-based, etc) and be served with a list of common soups matching their selection. 
 
